@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Syed-web918
 - 👀 I’m interested in ... programming
 - 🌱 I’m currently learning ...full stck develepor
-- 💞️ I’m looking to collaborate on ...newton school
+
 - 📫 How to reach me ...syedwasim@gamil.com    9182078902
 
 <!---
